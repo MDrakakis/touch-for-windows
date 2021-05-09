@@ -12,7 +12,7 @@ Linux touch command for windows implemented in rust. (As learning rust mini proj
 6. Restart
 
 ## Usage
-1. Open terminal and navigate to disired directory.
+1. Open terminal and navigate to desired directory.
 2. Type
 ```shell
 touch my_new_file.txt
