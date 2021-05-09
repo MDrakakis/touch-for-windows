@@ -1,6 +1,8 @@
 # touch-for-windows
 Linux touch command for windows implemented in rust. (As learning rust mini project)
 
+![Image of Rust](https://www.rust-lang.org/logos/rust-logo-128x128.png)
+
 ## Installation
 1. Download Zip or Clone the repository https://github.com/MDrakakis/touch-for-windows.git.
 2. Build the project to generete the .exe file and place it on desired location. (Ex. C:/touch).
